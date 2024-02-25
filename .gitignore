@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+data/*.db
+env/
+myenv/
+downloads/
+logs/
+config
+test/
+ssh-keygen*
+user_*.json

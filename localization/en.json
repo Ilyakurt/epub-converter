@@ -1,0 +1,7 @@
+{
+    "greeting": "Hello! Send me a file in .fb2 format or a .zip archive with fb2 files, and I will convert them all to .epub.",
+    "error_conversion": "An error occurred during file conversion.",
+    "error_file_format": "Please send a file in .zip or .fb2 format.",
+    "help_command_info": "Use /help to get more information and instructions.",
+    "help_text": "This bot can convert .fb2 files or .zip archives containing .fb2 files into .epub format. Just send a file to start the conversion."
+}
